@@ -1,0 +1,1 @@
+export const Pagination = () => <div>Mocked Pagination Component</div>;
